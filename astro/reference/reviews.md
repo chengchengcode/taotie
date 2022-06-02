@@ -12,6 +12,8 @@
 
 * [Halo Concentrations and the Fundamental Plane of Galaxy Clusters](https://arxiv.org/abs/1901.00008)
 
+* [Infrared Spectral Energy Distribution and Variability of Active Galactic Nuclei: Clues to the Structure of Circumnuclear Material](https://arxiv.org/abs/2205.14172)
+
 ## Cosmology and Nongalactic Astrophysics
 
 * [Modelling baryonic feedback for survey cosmology](https://arxiv.org/abs/1905.06082)
@@ -43,6 +45,9 @@
 * [Observing Black Holes Spin](https://arxiv.org/abs/1903.11704)
 
 ## Instrumentation and Methods for Astrophysics
+
+* [Review: Far-Infrared Instrumentation and Technology Development for the Next Decade
+](https://arxiv.org/abs/1709.02389)
 
 ## Solar and Stellar Astrophysics
 
